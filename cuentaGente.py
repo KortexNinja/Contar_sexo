@@ -2,7 +2,7 @@
 import os
 import openpyxl
 import numpy as np
-os.chdir('C:\\Program Files (x86)\\Python36-32\\automateBoring')
+os.chdir('Aqui tu ruta')#Todos Juntos en la misma carpeta, el Script y los archivos de Excel. 
 
 def Edad_Y_Sexo(fileName):
     workbook = openpyxl.load_workbook(fileName+'.xlsx')
