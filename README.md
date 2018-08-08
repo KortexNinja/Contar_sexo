@@ -7,7 +7,7 @@ Deberás cambiar la ruta en la 5ta Línea de código a la ruta dónde estará el
 Los archivos de Excel deberán estar en la misma carpeta que el Script.
 El script te guiará en el proceso una vez lo inicies.
 
-# NOTA: Solo reconoce el idioma Español.
+### NOTA: Solo reconoce el idioma Español.
 
 
 ### Requerimientos ###
@@ -15,4 +15,4 @@ Requiere las librerias:
 openpyxl
 numpy 
 
-# usar comando pip install openpyxl para instalar openpyxl y pip install numpy respectivamente.
+### usar comando pip install openpyxl para instalar openpyxl y pip install numpy respectivamente.
